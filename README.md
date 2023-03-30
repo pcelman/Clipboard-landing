@@ -4,22 +4,21 @@
 <img width="1174" alt="Screenshot 2023-03-30 at 18 40 45" src="https://user-images.githubusercontent.com/100241036/228971014-54546131-974c-46ef-85db-3f10aee9e109.png">
 
 
-Clipboard Landing page is a web application that uses Flexbox and responsive design techniques to create a dynamic and user-friendly menu. The menu can be accessed by clicking on the menu icon located in the top left corner of the page on small devices. When clicked, the menu smoothly transitions into view, revealing the different sections of the website.
+Clipboard Landing page is a web application that uses Flexbox and responsive design techniques to create a user-friendly webpage. 
 
 The use of Flexbox allows for a flexible and adaptive layout that adjusts to different screen sizes and devices.
 
-Overall, Sunnyside showcases the power and versatility of Flexbox and responsive design techniques. 
+Overall, Clipboard showcases the power and versatility of Flexbox and responsive design techniques. 
 
 ## Technologies Used
 
 - HTML5
 - CSS3
 - Flexbox
-- Grid
 
 ## Features
 
-- Uses Flexbox and Grid to create a responsive layout that adapts to different screen sizes.
+- Uses Flexbox to create a responsive layout that adapts to different screen sizes.
 - Provides a consistent user experience across different devices.
 
 ## Getting Started
